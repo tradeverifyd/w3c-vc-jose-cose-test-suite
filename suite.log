@@ -24,16 +24,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:2379dd0d-52c0-4088-8cff-1351901f2fcb",
+              "_testId": "urn:uuid:8873d2a2-b29c-43d4-8a4f-6a9404834bad",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 37878,
+                "_idleStart": 37143,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -42,7 +42,7 @@
                 "columnId": "independent",
                 "rowId": "1. JWT Basic Credential Issuance"
               },
-              "duration": 37837,
+              "duration": 37111,
               "state": "passed",
               "speed": "slow"
             },
@@ -59,16 +59,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:e6273c48-1a98-48d7-88df-b0750f0a55af",
+              "_testId": "urn:uuid:eb9a8f24-d29c-4e6c-a53e-df63ec90fc81",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 38389,
+                "_idleStart": 37663,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -77,7 +77,7 @@
                 "columnId": "independent",
                 "rowId": "2. JWT Credential Issuance with All Optional Fields"
               },
-              "duration": 509,
+              "duration": 518,
               "state": "passed",
               "speed": "slow"
             },
@@ -94,16 +94,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:bb1794be-20c8-42bc-b130-80bcb1e395ad",
+              "_testId": "urn:uuid:7e968cc4-42fc-459e-a875-0c1ff753f500",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 38901,
+                "_idleStart": 38170,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -112,7 +112,7 @@
                 "columnId": "independent",
                 "rowId": "3. JWT Basic Presentation Issuance"
               },
-              "duration": 511,
+              "duration": 507,
               "state": "passed",
               "speed": "slow"
             },
@@ -129,16 +129,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:d28b1a3f-377e-429a-9b2b-3fa7b8312173",
+              "_testId": "urn:uuid:d0c9fe47-e7fd-4bb2-a392-eb18c2b012ac",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 39411,
+                "_idleStart": 38682,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -147,7 +147,7 @@
                 "columnId": "independent",
                 "rowId": "4. JWT Complex Presentation Issuance"
               },
-              "duration": 509,
+              "duration": 512,
               "state": "passed",
               "speed": "slow"
             },
@@ -164,16 +164,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:87630ad4-36b5-4ec5-aec6-d5cd3a2059a0",
+              "_testId": "urn:uuid:f2e4a9d6-1deb-4b83-91ec-06d57a38bd03",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 39920,
+                "_idleStart": 39192,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -182,7 +182,7 @@
                 "columnId": "independent",
                 "rowId": "5. JWT Issuance with Unknown Extensions"
               },
-              "duration": 509,
+              "duration": 510,
               "state": "passed",
               "speed": "slow"
             },
@@ -199,16 +199,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:8be5d53f-b16d-4ad4-883d-cc3b3ffda596",
+              "_testId": "urn:uuid:381c4735-fa60-4785-b2c3-619ff2ee3403",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 40419,
+                "_idleStart": 39704,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -217,7 +217,7 @@
                 "columnId": "independent",
                 "rowId": "6. JWT Basic Credential Verification"
               },
-              "duration": 498,
+              "duration": 512,
               "state": "passed",
               "speed": "slow"
             },
@@ -234,16 +234,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:2a61dc5d-853b-4138-b0ed-7f4d7d0e5acb",
+              "_testId": "urn:uuid:c1280e4c-9e00-46c8-9a85-cf4f82e69d9f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 40916,
+                "_idleStart": 40219,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -252,7 +252,7 @@
                 "columnId": "independent",
                 "rowId": "7. JWT Presentation Verification"
               },
-              "duration": 496,
+              "duration": 515,
               "state": "passed",
               "speed": "slow"
             },
@@ -269,16 +269,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:c2717e21-247e-4aeb-9a98-837fbd6f9ba8",
+              "_testId": "urn:uuid:389ec41c-3143-4a7d-9e01-18cb5c4e8587",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 41434,
+                "_idleStart": 40726,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -287,7 +287,7 @@
                 "columnId": "independent",
                 "rowId": "8. JWT Issuer Match Verification"
               },
-              "duration": 517,
+              "duration": 507,
               "state": "passed",
               "speed": "slow"
             },
@@ -304,16 +304,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:7ebeafd5-13fc-42ea-94d0-cc461d36adcf",
+              "_testId": "urn:uuid:12cbcffb-6c5a-4126-9543-9a1f3cab7b65",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 41943,
+                "_idleStart": 41230,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -322,7 +322,7 @@
                 "columnId": "independent",
                 "rowId": "9. JWT Verification With Unknown Extensions"
               },
-              "duration": 508,
+              "duration": 504,
               "state": "passed",
               "speed": "slow"
             },
@@ -339,16 +339,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:10a0a253-bab0-469e-9334-5678236692c0",
+              "_testId": "urn:uuid:da6bcf4f-49e2-46aa-a523-5d71d35ca4e9",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 42451,
+                "_idleStart": 41772,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -357,7 +357,7 @@
                 "columnId": "independent",
                 "rowId": "10. JWT Unsecured Credential Verification"
               },
-              "duration": 507,
+              "duration": 541,
               "state": "passed",
               "speed": "slow"
             },
@@ -374,16 +374,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:52fbbb26-0371-4394-8340-8f05aee9c015",
+              "_testId": "urn:uuid:a6fa5de4-3e4b-4ea9-a222-d9cbfa59a67b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 42943,
+                "_idleStart": 42283,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -392,7 +392,7 @@
                 "columnId": "independent",
                 "rowId": "11. JWT Unsecured Presentation Verification"
               },
-              "duration": 491,
+              "duration": 511,
               "state": "passed",
               "speed": "slow"
             },
@@ -409,16 +409,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:75c25744-8f55-4756-bd0f-b19de3b5bdca",
+              "_testId": "urn:uuid:04173b96-4739-4e9d-a58b-a946573f2509",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 43445,
+                "_idleStart": 42800,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -427,7 +427,7 @@
                 "columnId": "independent",
                 "rowId": "12. JWT Credential with an Invalid Signature"
               },
-              "duration": 501,
+              "duration": 517,
               "state": "passed",
               "speed": "slow"
             },
@@ -444,16 +444,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:aa8a0ce3-9c6e-4bb6-bf43-96f8b62b7f59",
+              "_testId": "urn:uuid:fa7a19d8-a2bd-43dd-b1fa-fcecc2616233",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 43937,
+                "_idleStart": 43312,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -462,7 +462,7 @@
                 "columnId": "independent",
                 "rowId": "13. JWT Credential with an Invalid Media Type"
               },
-              "duration": 492,
+              "duration": 512,
               "state": "passed",
               "speed": "slow"
             },
@@ -479,16 +479,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:b90d3690-5ed3-4f98-b949-544275a5d8c8",
+              "_testId": "urn:uuid:3f36c444-f2e0-4cce-b577-2953d8ad4d1f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 44453,
+                "_idleStart": 43812,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -497,7 +497,7 @@
                 "columnId": "independent",
                 "rowId": "14. JWT Presentation with an Invalid Media Type"
               },
-              "duration": 516,
+              "duration": 500,
               "state": "passed",
               "speed": "slow"
             },
@@ -514,16 +514,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:82aac7c9-3026-4b81-9e44-102a0d6448b3",
+              "_testId": "urn:uuid:2f9af254-e2db-495f-ad36-ddaaea7f6365",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 44960,
+                "_idleStart": 44320,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -532,7 +532,7 @@
                 "columnId": "independent",
                 "rowId": "15. JWT Credential with vc and/or vp Claims"
               },
-              "duration": 507,
+              "duration": 508,
               "state": "passed",
               "speed": "slow"
             },
@@ -549,16 +549,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "hnw2EY-udmm-VkGwcVYyc",
+              "parent": "EYgNEw-6VNz8EmMWrJDJ7",
               "ctx": null,
-              "_testId": "urn:uuid:eb309613-a45f-4f47-a0b1-fb46414f57d2",
+              "_testId": "urn:uuid:a1f97607-d641-4b12-a7a9-62111aaa8923",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 45457,
+                "_idleStart": 44821,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -567,7 +567,7 @@
                 "columnId": "independent",
                 "rowId": "16. JWT Presentation with Invalid Credential"
               },
-              "duration": 496,
+              "duration": 501,
               "state": "passed",
               "speed": "slow"
             }
@@ -585,9 +585,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "qxTpFWk3slzhIMPM-TYV6",
+          "parent": "RpDanVO43xTBMqpeAMlQS",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:0b622191-6074-4bfa-9c49-d2d79b4de4a5"
+          "_testId": "urn:uuid:d1df7e99-76ae-49e6-b40e-8672730e2a8a"
         },
         {
           "title": "mavennet",
@@ -607,16 +607,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:87fb4334-225e-431f-9929-65aa52b360de",
+              "_testId": "urn:uuid:5b377099-6f42-413e-b7b4-bd473bd50abb",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 61051,
+                "_idleStart": 60380,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -625,7 +625,7 @@
                 "columnId": "mavennet",
                 "rowId": "1. JWT Basic Credential Issuance"
               },
-              "duration": 15594,
+              "duration": 15559,
               "state": "passed",
               "speed": "slow"
             },
@@ -642,16 +642,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:25ffe1d2-0349-48d4-822c-898cef1819ef",
+              "_testId": "urn:uuid:d930f60b-1acc-4a8f-bf32-a3096719a94d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 62059,
+                "_idleStart": 61363,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -660,7 +660,7 @@
                 "columnId": "mavennet",
                 "rowId": "2. JWT Credential Issuance with All Optional Fields"
               },
-              "duration": 1008,
+              "duration": 984,
               "state": "passed",
               "speed": "slow"
             },
@@ -677,16 +677,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:3f70fb8e-4a57-45c0-be52-558a4377a01b",
+              "_testId": "urn:uuid:694b21e4-5a40-46a5-b032-ffcaf543fae1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 62999,
+                "_idleStart": 62328,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -695,7 +695,7 @@
                 "columnId": "mavennet",
                 "rowId": "3. JWT Basic Presentation Issuance"
               },
-              "duration": 939,
+              "duration": 964,
               "state": "passed",
               "speed": "slow"
             },
@@ -712,16 +712,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:c7d8f01c-1e1c-469d-a1de-a4c66d3144f3",
+              "_testId": "urn:uuid:5ef2e9ca-3012-4b7b-a294-4c29a35e438f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 63939,
+                "_idleStart": 63264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -730,7 +730,7 @@
                 "columnId": "mavennet",
                 "rowId": "4. JWT Complex Presentation Issuance"
               },
-              "duration": 940,
+              "duration": 936,
               "state": "passed",
               "speed": "slow"
             },
@@ -747,16 +747,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:dd592900-76da-42af-b2a2-0bb35978cd14",
+              "_testId": "urn:uuid:5bce639c-9de4-4979-9db7-868c1eeead38",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 64902,
+                "_idleStart": 64257,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -765,7 +765,7 @@
                 "columnId": "mavennet",
                 "rowId": "5. JWT Issuance with Unknown Extensions"
               },
-              "duration": 963,
+              "duration": 993,
               "state": "passed",
               "speed": "slow"
             },
@@ -782,16 +782,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:46552afe-e89a-4593-9f9f-a2f4e43fbced",
+              "_testId": "urn:uuid:f899fe6d-eaf0-48b9-a4fb-d9f79e86fc37",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 65818,
+                "_idleStart": 65192,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -800,7 +800,7 @@
                 "columnId": "mavennet",
                 "rowId": "6. JWT Basic Credential Verification"
               },
-              "duration": 916,
+              "duration": 935,
               "state": "passed",
               "speed": "slow"
             },
@@ -817,16 +817,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:e6d5d6a3-9622-4bf3-9cba-3569e194525c",
+              "_testId": "urn:uuid:8963f890-089c-4dc1-bf91-57e48d2ff92f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 66748,
+                "_idleStart": 66121,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -835,7 +835,7 @@
                 "columnId": "mavennet",
                 "rowId": "7. JWT Presentation Verification"
               },
-              "duration": 930,
+              "duration": 929,
               "state": "passed",
               "speed": "slow"
             },
@@ -852,16 +852,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:0200306b-af9f-4f7a-8844-69a0e0f816c1",
+              "_testId": "urn:uuid:17705ed5-40b2-40c9-9600-e6dc9fe5ada0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 67676,
+                "_idleStart": 67056,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -870,7 +870,7 @@
                 "columnId": "mavennet",
                 "rowId": "8. JWT Issuer Match Verification"
               },
-              "duration": 928,
+              "duration": 935,
               "state": "passed",
               "speed": "slow"
             },
@@ -887,16 +887,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:0742d724-1d73-4d77-8e16-3c8eba86ec1b",
+              "_testId": "urn:uuid:23eb0558-a9af-43a3-862e-1c32ef48c8b1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 68622,
+                "_idleStart": 67982,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -905,7 +905,7 @@
                 "columnId": "mavennet",
                 "rowId": "9. JWT Verification With Unknown Extensions"
               },
-              "duration": 946,
+              "duration": 926,
               "state": "passed",
               "speed": "slow"
             },
@@ -922,16 +922,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:203fb0fe-8858-45b4-9b90-973750a78aa5",
+              "_testId": "urn:uuid:97344937-b8b3-4679-8c25-84a07f093fd4",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 69546,
+                "_idleStart": 68906,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -957,16 +957,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:7921c7cd-4e9d-41dc-bcfd-3762b16e211d",
+              "_testId": "urn:uuid:28cb0eae-5b7a-4dc1-a5df-7395c12ab80f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 70472,
+                "_idleStart": 69822,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -975,7 +975,7 @@
                 "columnId": "mavennet",
                 "rowId": "11. JWT Unsecured Presentation Verification"
               },
-              "duration": 926,
+              "duration": 916,
               "state": "passed",
               "speed": "slow"
             },
@@ -992,16 +992,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:cb186973-3b47-4718-aab6-933b0fe3178b",
+              "_testId": "urn:uuid:bdce8359-f01e-42fb-a6b6-a442afeca18f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 71397,
+                "_idleStart": 70739,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1010,7 +1010,7 @@
                 "columnId": "mavennet",
                 "rowId": "12. JWT Credential with an Invalid Signature"
               },
-              "duration": 925,
+              "duration": 917,
               "state": "passed",
               "speed": "slow"
             },
@@ -1027,16 +1027,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:9b13bfd9-4378-4596-a8e5-411bd21dd794",
+              "_testId": "urn:uuid:c4a2cdc6-dc88-4be1-9ddc-06b2ff1c952f",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 72318,
+                "_idleStart": 71666,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1045,7 +1045,7 @@
                 "columnId": "mavennet",
                 "rowId": "13. JWT Credential with an Invalid Media Type"
               },
-              "duration": 921,
+              "duration": 927,
               "state": "passed",
               "speed": "slow"
             },
@@ -1062,16 +1062,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:9f300a21-94b6-4d38-9e5a-506949486864",
+              "_testId": "urn:uuid:87a25432-b54e-4674-ae0c-1d118e31e4b8",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 73250,
+                "_idleStart": 72583,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1080,7 +1080,7 @@
                 "columnId": "mavennet",
                 "rowId": "14. JWT Presentation with an Invalid Media Type"
               },
-              "duration": 932,
+              "duration": 917,
               "state": "passed",
               "speed": "slow"
             },
@@ -1097,16 +1097,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:55d96858-9d7c-43cd-a806-2e4168a128fd",
+              "_testId": "urn:uuid:bbd48adf-0f39-4680-89c7-8655bb31165e",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 74176,
+                "_idleStart": 73507,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1115,7 +1115,7 @@
                 "columnId": "mavennet",
                 "rowId": "15. JWT Credential with vc and/or vp Claims"
               },
-              "duration": 926,
+              "duration": 924,
               "state": "passed",
               "speed": "slow"
             },
@@ -1132,16 +1132,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+              "parent": "O9EiKMMI_8ijncM7jFPt7",
               "ctx": null,
-              "_testId": "urn:uuid:1707d9d1-cbae-4909-b8e5-3c92d07590e0",
+              "_testId": "urn:uuid:e08d1532-4d6f-4e28-8765-2a0da8a0383a",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 75095,
+                "_idleStart": 74434,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -1150,7 +1150,7 @@
                 "columnId": "mavennet",
                 "rowId": "16. JWT Presentation with Invalid Credential"
               },
-              "duration": 919,
+              "duration": 927,
               "state": "passed",
               "speed": "slow"
             }
@@ -1168,9 +1168,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "qxTpFWk3slzhIMPM-TYV6",
+          "parent": "RpDanVO43xTBMqpeAMlQS",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:a2bb6f38-c1bf-4153-84e8-b234b29ed0d4"
+          "_testId": "urn:uuid:c4d40864-b85f-425e-b840-0b5ee84fb16d"
         }
       ],
       "tests": [
@@ -1187,16 +1187,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:2379dd0d-52c0-4088-8cff-1351901f2fcb",
+          "_testId": "urn:uuid:8873d2a2-b29c-43d4-8a4f-6a9404834bad",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 37878,
+            "_idleStart": 37143,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1205,7 +1205,7 @@
             "columnId": "independent",
             "rowId": "1. JWT Basic Credential Issuance"
           },
-          "duration": 37837,
+          "duration": 37111,
           "state": "passed",
           "speed": "slow"
         },
@@ -1222,16 +1222,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:e6273c48-1a98-48d7-88df-b0750f0a55af",
+          "_testId": "urn:uuid:eb9a8f24-d29c-4e6c-a53e-df63ec90fc81",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 38389,
+            "_idleStart": 37663,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1240,7 +1240,7 @@
             "columnId": "independent",
             "rowId": "2. JWT Credential Issuance with All Optional Fields"
           },
-          "duration": 509,
+          "duration": 518,
           "state": "passed",
           "speed": "slow"
         },
@@ -1257,16 +1257,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:bb1794be-20c8-42bc-b130-80bcb1e395ad",
+          "_testId": "urn:uuid:7e968cc4-42fc-459e-a875-0c1ff753f500",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 38901,
+            "_idleStart": 38170,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1275,7 +1275,7 @@
             "columnId": "independent",
             "rowId": "3. JWT Basic Presentation Issuance"
           },
-          "duration": 511,
+          "duration": 507,
           "state": "passed",
           "speed": "slow"
         },
@@ -1292,16 +1292,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:d28b1a3f-377e-429a-9b2b-3fa7b8312173",
+          "_testId": "urn:uuid:d0c9fe47-e7fd-4bb2-a392-eb18c2b012ac",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 39411,
+            "_idleStart": 38682,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1310,7 +1310,7 @@
             "columnId": "independent",
             "rowId": "4. JWT Complex Presentation Issuance"
           },
-          "duration": 509,
+          "duration": 512,
           "state": "passed",
           "speed": "slow"
         },
@@ -1327,16 +1327,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:87630ad4-36b5-4ec5-aec6-d5cd3a2059a0",
+          "_testId": "urn:uuid:f2e4a9d6-1deb-4b83-91ec-06d57a38bd03",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 39920,
+            "_idleStart": 39192,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1345,7 +1345,7 @@
             "columnId": "independent",
             "rowId": "5. JWT Issuance with Unknown Extensions"
           },
-          "duration": 509,
+          "duration": 510,
           "state": "passed",
           "speed": "slow"
         },
@@ -1362,16 +1362,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:8be5d53f-b16d-4ad4-883d-cc3b3ffda596",
+          "_testId": "urn:uuid:381c4735-fa60-4785-b2c3-619ff2ee3403",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 40419,
+            "_idleStart": 39704,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1380,7 +1380,7 @@
             "columnId": "independent",
             "rowId": "6. JWT Basic Credential Verification"
           },
-          "duration": 498,
+          "duration": 512,
           "state": "passed",
           "speed": "slow"
         },
@@ -1397,16 +1397,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:2a61dc5d-853b-4138-b0ed-7f4d7d0e5acb",
+          "_testId": "urn:uuid:c1280e4c-9e00-46c8-9a85-cf4f82e69d9f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 40916,
+            "_idleStart": 40219,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1415,7 +1415,7 @@
             "columnId": "independent",
             "rowId": "7. JWT Presentation Verification"
           },
-          "duration": 496,
+          "duration": 515,
           "state": "passed",
           "speed": "slow"
         },
@@ -1432,16 +1432,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:c2717e21-247e-4aeb-9a98-837fbd6f9ba8",
+          "_testId": "urn:uuid:389ec41c-3143-4a7d-9e01-18cb5c4e8587",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 41434,
+            "_idleStart": 40726,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1450,7 +1450,7 @@
             "columnId": "independent",
             "rowId": "8. JWT Issuer Match Verification"
           },
-          "duration": 517,
+          "duration": 507,
           "state": "passed",
           "speed": "slow"
         },
@@ -1467,16 +1467,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:7ebeafd5-13fc-42ea-94d0-cc461d36adcf",
+          "_testId": "urn:uuid:12cbcffb-6c5a-4126-9543-9a1f3cab7b65",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 41943,
+            "_idleStart": 41230,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1485,7 +1485,7 @@
             "columnId": "independent",
             "rowId": "9. JWT Verification With Unknown Extensions"
           },
-          "duration": 508,
+          "duration": 504,
           "state": "passed",
           "speed": "slow"
         },
@@ -1502,16 +1502,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:10a0a253-bab0-469e-9334-5678236692c0",
+          "_testId": "urn:uuid:da6bcf4f-49e2-46aa-a523-5d71d35ca4e9",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 42451,
+            "_idleStart": 41772,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1520,7 +1520,7 @@
             "columnId": "independent",
             "rowId": "10. JWT Unsecured Credential Verification"
           },
-          "duration": 507,
+          "duration": 541,
           "state": "passed",
           "speed": "slow"
         },
@@ -1537,16 +1537,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:52fbbb26-0371-4394-8340-8f05aee9c015",
+          "_testId": "urn:uuid:a6fa5de4-3e4b-4ea9-a222-d9cbfa59a67b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 42943,
+            "_idleStart": 42283,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1555,7 +1555,7 @@
             "columnId": "independent",
             "rowId": "11. JWT Unsecured Presentation Verification"
           },
-          "duration": 491,
+          "duration": 511,
           "state": "passed",
           "speed": "slow"
         },
@@ -1572,16 +1572,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:75c25744-8f55-4756-bd0f-b19de3b5bdca",
+          "_testId": "urn:uuid:04173b96-4739-4e9d-a58b-a946573f2509",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 43445,
+            "_idleStart": 42800,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1590,7 +1590,7 @@
             "columnId": "independent",
             "rowId": "12. JWT Credential with an Invalid Signature"
           },
-          "duration": 501,
+          "duration": 517,
           "state": "passed",
           "speed": "slow"
         },
@@ -1607,16 +1607,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:aa8a0ce3-9c6e-4bb6-bf43-96f8b62b7f59",
+          "_testId": "urn:uuid:fa7a19d8-a2bd-43dd-b1fa-fcecc2616233",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 43937,
+            "_idleStart": 43312,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1625,7 +1625,7 @@
             "columnId": "independent",
             "rowId": "13. JWT Credential with an Invalid Media Type"
           },
-          "duration": 492,
+          "duration": 512,
           "state": "passed",
           "speed": "slow"
         },
@@ -1642,16 +1642,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:b90d3690-5ed3-4f98-b949-544275a5d8c8",
+          "_testId": "urn:uuid:3f36c444-f2e0-4cce-b577-2953d8ad4d1f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 44453,
+            "_idleStart": 43812,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1660,7 +1660,7 @@
             "columnId": "independent",
             "rowId": "14. JWT Presentation with an Invalid Media Type"
           },
-          "duration": 516,
+          "duration": 500,
           "state": "passed",
           "speed": "slow"
         },
@@ -1677,16 +1677,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:82aac7c9-3026-4b81-9e44-102a0d6448b3",
+          "_testId": "urn:uuid:2f9af254-e2db-495f-ad36-ddaaea7f6365",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 44960,
+            "_idleStart": 44320,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1695,7 +1695,7 @@
             "columnId": "independent",
             "rowId": "15. JWT Credential with vc and/or vp Claims"
           },
-          "duration": 507,
+          "duration": 508,
           "state": "passed",
           "speed": "slow"
         },
@@ -1712,16 +1712,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "hnw2EY-udmm-VkGwcVYyc",
+          "parent": "EYgNEw-6VNz8EmMWrJDJ7",
           "ctx": null,
-          "_testId": "urn:uuid:eb309613-a45f-4f47-a0b1-fb46414f57d2",
+          "_testId": "urn:uuid:a1f97607-d641-4b12-a7a9-62111aaa8923",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 45457,
+            "_idleStart": 44821,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1730,7 +1730,7 @@
             "columnId": "independent",
             "rowId": "16. JWT Presentation with Invalid Credential"
           },
-          "duration": 496,
+          "duration": 501,
           "state": "passed",
           "speed": "slow"
         },
@@ -1747,16 +1747,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:87fb4334-225e-431f-9929-65aa52b360de",
+          "_testId": "urn:uuid:5b377099-6f42-413e-b7b4-bd473bd50abb",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 61051,
+            "_idleStart": 60380,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1765,7 +1765,7 @@
             "columnId": "mavennet",
             "rowId": "1. JWT Basic Credential Issuance"
           },
-          "duration": 15594,
+          "duration": 15559,
           "state": "passed",
           "speed": "slow"
         },
@@ -1782,16 +1782,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:25ffe1d2-0349-48d4-822c-898cef1819ef",
+          "_testId": "urn:uuid:d930f60b-1acc-4a8f-bf32-a3096719a94d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 62059,
+            "_idleStart": 61363,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1800,7 +1800,7 @@
             "columnId": "mavennet",
             "rowId": "2. JWT Credential Issuance with All Optional Fields"
           },
-          "duration": 1008,
+          "duration": 984,
           "state": "passed",
           "speed": "slow"
         },
@@ -1817,16 +1817,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:3f70fb8e-4a57-45c0-be52-558a4377a01b",
+          "_testId": "urn:uuid:694b21e4-5a40-46a5-b032-ffcaf543fae1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 62999,
+            "_idleStart": 62328,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1835,7 +1835,7 @@
             "columnId": "mavennet",
             "rowId": "3. JWT Basic Presentation Issuance"
           },
-          "duration": 939,
+          "duration": 964,
           "state": "passed",
           "speed": "slow"
         },
@@ -1852,16 +1852,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:c7d8f01c-1e1c-469d-a1de-a4c66d3144f3",
+          "_testId": "urn:uuid:5ef2e9ca-3012-4b7b-a294-4c29a35e438f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 63939,
+            "_idleStart": 63264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1870,7 +1870,7 @@
             "columnId": "mavennet",
             "rowId": "4. JWT Complex Presentation Issuance"
           },
-          "duration": 940,
+          "duration": 936,
           "state": "passed",
           "speed": "slow"
         },
@@ -1887,16 +1887,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:dd592900-76da-42af-b2a2-0bb35978cd14",
+          "_testId": "urn:uuid:5bce639c-9de4-4979-9db7-868c1eeead38",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 64902,
+            "_idleStart": 64257,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1905,7 +1905,7 @@
             "columnId": "mavennet",
             "rowId": "5. JWT Issuance with Unknown Extensions"
           },
-          "duration": 963,
+          "duration": 993,
           "state": "passed",
           "speed": "slow"
         },
@@ -1922,16 +1922,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:46552afe-e89a-4593-9f9f-a2f4e43fbced",
+          "_testId": "urn:uuid:f899fe6d-eaf0-48b9-a4fb-d9f79e86fc37",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 65818,
+            "_idleStart": 65192,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1940,7 +1940,7 @@
             "columnId": "mavennet",
             "rowId": "6. JWT Basic Credential Verification"
           },
-          "duration": 916,
+          "duration": 935,
           "state": "passed",
           "speed": "slow"
         },
@@ -1957,16 +1957,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:e6d5d6a3-9622-4bf3-9cba-3569e194525c",
+          "_testId": "urn:uuid:8963f890-089c-4dc1-bf91-57e48d2ff92f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 66748,
+            "_idleStart": 66121,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -1975,7 +1975,7 @@
             "columnId": "mavennet",
             "rowId": "7. JWT Presentation Verification"
           },
-          "duration": 930,
+          "duration": 929,
           "state": "passed",
           "speed": "slow"
         },
@@ -1992,16 +1992,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:0200306b-af9f-4f7a-8844-69a0e0f816c1",
+          "_testId": "urn:uuid:17705ed5-40b2-40c9-9600-e6dc9fe5ada0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 67676,
+            "_idleStart": 67056,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2010,7 +2010,7 @@
             "columnId": "mavennet",
             "rowId": "8. JWT Issuer Match Verification"
           },
-          "duration": 928,
+          "duration": 935,
           "state": "passed",
           "speed": "slow"
         },
@@ -2027,16 +2027,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:0742d724-1d73-4d77-8e16-3c8eba86ec1b",
+          "_testId": "urn:uuid:23eb0558-a9af-43a3-862e-1c32ef48c8b1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 68622,
+            "_idleStart": 67982,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2045,7 +2045,7 @@
             "columnId": "mavennet",
             "rowId": "9. JWT Verification With Unknown Extensions"
           },
-          "duration": 946,
+          "duration": 926,
           "state": "passed",
           "speed": "slow"
         },
@@ -2062,16 +2062,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:203fb0fe-8858-45b4-9b90-973750a78aa5",
+          "_testId": "urn:uuid:97344937-b8b3-4679-8c25-84a07f093fd4",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 69546,
+            "_idleStart": 68906,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2097,16 +2097,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:7921c7cd-4e9d-41dc-bcfd-3762b16e211d",
+          "_testId": "urn:uuid:28cb0eae-5b7a-4dc1-a5df-7395c12ab80f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 70472,
+            "_idleStart": 69822,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2115,7 +2115,7 @@
             "columnId": "mavennet",
             "rowId": "11. JWT Unsecured Presentation Verification"
           },
-          "duration": 926,
+          "duration": 916,
           "state": "passed",
           "speed": "slow"
         },
@@ -2132,16 +2132,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:cb186973-3b47-4718-aab6-933b0fe3178b",
+          "_testId": "urn:uuid:bdce8359-f01e-42fb-a6b6-a442afeca18f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 71397,
+            "_idleStart": 70739,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2150,7 +2150,7 @@
             "columnId": "mavennet",
             "rowId": "12. JWT Credential with an Invalid Signature"
           },
-          "duration": 925,
+          "duration": 917,
           "state": "passed",
           "speed": "slow"
         },
@@ -2167,16 +2167,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:9b13bfd9-4378-4596-a8e5-411bd21dd794",
+          "_testId": "urn:uuid:c4a2cdc6-dc88-4be1-9ddc-06b2ff1c952f",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 72318,
+            "_idleStart": 71666,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2185,7 +2185,7 @@
             "columnId": "mavennet",
             "rowId": "13. JWT Credential with an Invalid Media Type"
           },
-          "duration": 921,
+          "duration": 927,
           "state": "passed",
           "speed": "slow"
         },
@@ -2202,16 +2202,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:9f300a21-94b6-4d38-9e5a-506949486864",
+          "_testId": "urn:uuid:87a25432-b54e-4674-ae0c-1d118e31e4b8",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 73250,
+            "_idleStart": 72583,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2220,7 +2220,7 @@
             "columnId": "mavennet",
             "rowId": "14. JWT Presentation with an Invalid Media Type"
           },
-          "duration": 932,
+          "duration": 917,
           "state": "passed",
           "speed": "slow"
         },
@@ -2237,16 +2237,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:55d96858-9d7c-43cd-a806-2e4168a128fd",
+          "_testId": "urn:uuid:bbd48adf-0f39-4680-89c7-8655bb31165e",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 74176,
+            "_idleStart": 73507,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2255,7 +2255,7 @@
             "columnId": "mavennet",
             "rowId": "15. JWT Credential with vc and/or vp Claims"
           },
-          "duration": 926,
+          "duration": 924,
           "state": "passed",
           "speed": "slow"
         },
@@ -2272,16 +2272,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "J9l1JFxW0SJ-nK7pOCc4l",
+          "parent": "O9EiKMMI_8ijncM7jFPt7",
           "ctx": null,
-          "_testId": "urn:uuid:1707d9d1-cbae-4909-b8e5-3c92d07590e0",
+          "_testId": "urn:uuid:e08d1532-4d6f-4e28-8765-2a0da8a0383a",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 75095,
+            "_idleStart": 74434,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -2290,7 +2290,7 @@
             "columnId": "mavennet",
             "rowId": "16. JWT Presentation with Invalid Credential"
           },
-          "duration": 919,
+          "duration": 927,
           "state": "passed",
           "speed": "slow"
         }
@@ -2308,7 +2308,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "2Ply-eg4yxzLPB7uR1bV6",
+      "parent": "vGaG_tHIaovVkafM0Xzid",
       "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
       "matrix": true,
       "report": true,
@@ -2318,7 +2318,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:a4ef62b4-6dd4-4f22-95d9-1ee85c7cf207"
+      "_testId": "urn:uuid:a2f556cd-faf5-44a7-9e18-b8aa07c302e1"
     },
     {
       "title": "SD-JWT Tests",
@@ -2342,16 +2342,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:e8c2bb01-ef75-43f4-bef2-d85eb2b587aa",
+              "_testId": "urn:uuid:ed6d64d6-69df-411c-9579-c4862ac3d363",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 75605,
+                "_idleStart": 74948,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2360,7 +2360,7 @@
                 "columnId": "independent",
                 "rowId": "17. SD-JWT Basic Credential Issuance"
               },
-              "duration": 509,
+              "duration": 514,
               "state": "passed",
               "speed": "slow"
             },
@@ -2377,16 +2377,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:596f9770-066f-4a57-b8f4-828efe45fe1f",
+              "_testId": "urn:uuid:1fd2ff6b-701a-4d98-bff9-ce429a6507f8",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 76105,
+                "_idleStart": 75459,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2395,7 +2395,7 @@
                 "columnId": "independent",
                 "rowId": "18. SD-JWT Complex Credential Issuance"
               },
-              "duration": 500,
+              "duration": 511,
               "state": "passed",
               "speed": "slow"
             },
@@ -2412,16 +2412,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:db132049-068a-4825-822b-7cb3edef48f9",
+              "_testId": "urn:uuid:59dc6838-4f63-42be-841d-2da96072e7e9",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 76615,
+                "_idleStart": 75970,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2447,16 +2447,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:0dec159e-9b5d-4b02-8d5f-574391fdd398",
+              "_testId": "urn:uuid:624e870e-51d7-485f-ae44-bf2393e52093",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 77111,
+                "_idleStart": 76476,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2465,7 +2465,7 @@
                 "columnId": "independent",
                 "rowId": "20. SD-JWT Basic Credential Verification"
               },
-              "duration": 495,
+              "duration": 506,
               "state": "passed",
               "speed": "slow"
             },
@@ -2482,16 +2482,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:6f11abec-22fa-4d7f-ab50-163a558b8754",
+              "_testId": "urn:uuid:7b58d108-77ab-4a8a-afaf-0eaac2654b56",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 77632,
+                "_idleStart": 76996,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2500,7 +2500,7 @@
                 "columnId": "independent",
                 "rowId": "21. SD-JWT Complex Credential Verification"
               },
-              "duration": 521,
+              "duration": 520,
               "state": "passed",
               "speed": "slow"
             },
@@ -2517,16 +2517,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:ddb7522f-8c76-4168-8bce-b06c891a28e7",
+              "_testId": "urn:uuid:9f1ca5ad-2fa2-430e-b92b-29d2feab90ee",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 78135,
+                "_idleStart": 77505,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2535,7 +2535,7 @@
                 "columnId": "independent",
                 "rowId": "22. SD-JWT Presentation Verification"
               },
-              "duration": 503,
+              "duration": 509,
               "state": "passed",
               "speed": "slow"
             },
@@ -2552,16 +2552,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:67e2471d-41ee-4e3b-a2a7-fe582368a1ef",
+              "_testId": "urn:uuid:82c6c645-751a-44ed-9f4a-1d1fe58d9995",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 78630,
+                "_idleStart": 78023,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2570,7 +2570,7 @@
                 "columnId": "independent",
                 "rowId": "23. SD-JWT Credential With an Invalid Signature"
               },
-              "duration": 495,
+              "duration": 519,
               "state": "passed",
               "speed": "slow"
             },
@@ -2587,16 +2587,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:bc057e7e-30e5-47fc-b487-7ab42149c203",
+              "_testId": "urn:uuid:8800c542-b453-4d9d-9df0-a047001111f0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 79132,
+                "_idleStart": 78531,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2605,7 +2605,7 @@
                 "columnId": "independent",
                 "rowId": "24. SD-JWT Credential with an Invalid Media Type"
               },
-              "duration": 502,
+              "duration": 507,
               "state": "passed",
               "speed": "slow"
             },
@@ -2622,16 +2622,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:f5f1e9c2-dfb0-4742-a95a-b17dd25911a9",
+              "_testId": "urn:uuid:460fb284-6a08-4c46-b3d1-31853c6e3793",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 79631,
+                "_idleStart": 79033,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2640,7 +2640,7 @@
                 "columnId": "independent",
                 "rowId": "25. SD-JWT Presentation with an Invalid Media Type"
               },
-              "duration": 499,
+              "duration": 502,
               "state": "passed",
               "speed": "slow"
             },
@@ -2657,16 +2657,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "0FnTjmdO78hUW7eVCSgC9",
+              "parent": "03XdJH-SW7ckkmLjaWm-e",
               "ctx": null,
-              "_testId": "urn:uuid:351b8a89-3056-4ebb-8597-b14bfc19a2fb",
+              "_testId": "urn:uuid:d27bae36-a6f1-4bce-833b-e25d91a80261",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80148,
+                "_idleStart": 79552,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2675,7 +2675,7 @@
                 "columnId": "independent",
                 "rowId": "26. SD-JWT Presentation with Invalid Credentials"
               },
-              "duration": 517,
+              "duration": 519,
               "state": "passed",
               "speed": "slow"
             }
@@ -2693,9 +2693,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "7xypNIEy2SEjI1_cMtPDH",
+          "parent": "Vq_qbRgVVS59LDjy8Vzdw",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:9909582f-9e87-472b-aa98-56beef2dc5d4"
+          "_testId": "urn:uuid:737729a4-6e7d-4330-8043-8a3fa5abaa25"
         },
         {
           "title": "mavennet",
@@ -2715,21 +2715,21 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:89086113-402b-48cb-978c-31cad623ead3",
+              "_testId": "urn:uuid:ac6e1810-d51d-46a8-ba30-b3f1e12daf6b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80299,
+                "_idleStart": 79703,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "pending"
             },
             {
@@ -2745,16 +2745,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:7f839250-040c-439b-9cdd-c096d5aefaf9",
+              "_testId": "urn:uuid:6234934f-01c1-4d35-b7a8-d65db17ca708",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80299,
+                "_idleStart": 79703,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2775,16 +2775,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:b61a744f-d721-434b-b905-af7890b046d1",
+              "_testId": "urn:uuid:fff90abe-c1ad-4980-8ed7-2ab72373ba9b",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80299,
+                "_idleStart": 79703,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2805,16 +2805,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:153dc0b9-9510-405e-aaff-3d05dafb20d0",
+              "_testId": "urn:uuid:133fdc0d-d3be-4005-9a71-faef71ea8f3a",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80299,
+                "_idleStart": 79703,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2835,16 +2835,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:e4b65e23-7005-4969-bd01-2aa6f3c43893",
+              "_testId": "urn:uuid:ed349df2-0833-4d47-93e4-20f2f6caa843",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80300,
+                "_idleStart": 79704,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2865,21 +2865,21 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:a53cad48-a400-432d-90a4-df4c80049b8f",
+              "_testId": "urn:uuid:d9254617-1ccc-407b-bd8d-164001e6b2c2",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80300,
+                "_idleStart": 79704,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
               },
-              "duration": 1,
+              "duration": 0,
               "state": "pending"
             },
             {
@@ -2895,16 +2895,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:ed357f67-55a1-493f-8fe4-e88c48fda636",
+              "_testId": "urn:uuid:d6bedd7f-a077-47e8-8e9f-885d903aa87a",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80300,
+                "_idleStart": 79704,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2925,16 +2925,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:b12afa51-8fb7-4f8f-a993-8015d85bb52c",
+              "_testId": "urn:uuid:89000e68-8fdf-4c37-a0b0-e9baaba9a4e0",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80300,
+                "_idleStart": 79704,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2955,16 +2955,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:cda8800f-569a-439e-8a87-97e7fa9eb903",
+              "_testId": "urn:uuid:a279dc6a-1b3a-46ac-bd5c-7d60e918abb3",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80300,
+                "_idleStart": 79705,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -2985,16 +2985,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+              "parent": "Qq3E75KzUtQ-jpspfPiHx",
               "ctx": null,
-              "_testId": "urn:uuid:48a7a0e5-6f1e-4486-b0ae-8aeb1db30a4b",
+              "_testId": "urn:uuid:f98b2b6c-3ab8-49ae-8c3e-e22aa863f066",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80301,
+                "_idleStart": 79705,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3016,9 +3016,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "7xypNIEy2SEjI1_cMtPDH",
+          "parent": "Vq_qbRgVVS59LDjy8Vzdw",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:4d1eee58-52a9-4e57-8db9-a9646b3449c5"
+          "_testId": "urn:uuid:438384ce-a4bc-49fc-b5fc-c5189fe07733"
         }
       ],
       "tests": [
@@ -3035,16 +3035,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:e8c2bb01-ef75-43f4-bef2-d85eb2b587aa",
+          "_testId": "urn:uuid:ed6d64d6-69df-411c-9579-c4862ac3d363",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 75605,
+            "_idleStart": 74948,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3053,7 +3053,7 @@
             "columnId": "independent",
             "rowId": "17. SD-JWT Basic Credential Issuance"
           },
-          "duration": 509,
+          "duration": 514,
           "state": "passed",
           "speed": "slow"
         },
@@ -3070,16 +3070,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:596f9770-066f-4a57-b8f4-828efe45fe1f",
+          "_testId": "urn:uuid:1fd2ff6b-701a-4d98-bff9-ce429a6507f8",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 76105,
+            "_idleStart": 75459,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3088,7 +3088,7 @@
             "columnId": "independent",
             "rowId": "18. SD-JWT Complex Credential Issuance"
           },
-          "duration": 500,
+          "duration": 511,
           "state": "passed",
           "speed": "slow"
         },
@@ -3105,16 +3105,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:db132049-068a-4825-822b-7cb3edef48f9",
+          "_testId": "urn:uuid:59dc6838-4f63-42be-841d-2da96072e7e9",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 76615,
+            "_idleStart": 75970,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3140,16 +3140,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:0dec159e-9b5d-4b02-8d5f-574391fdd398",
+          "_testId": "urn:uuid:624e870e-51d7-485f-ae44-bf2393e52093",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 77111,
+            "_idleStart": 76476,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3158,7 +3158,7 @@
             "columnId": "independent",
             "rowId": "20. SD-JWT Basic Credential Verification"
           },
-          "duration": 495,
+          "duration": 506,
           "state": "passed",
           "speed": "slow"
         },
@@ -3175,16 +3175,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:6f11abec-22fa-4d7f-ab50-163a558b8754",
+          "_testId": "urn:uuid:7b58d108-77ab-4a8a-afaf-0eaac2654b56",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 77632,
+            "_idleStart": 76996,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3193,7 +3193,7 @@
             "columnId": "independent",
             "rowId": "21. SD-JWT Complex Credential Verification"
           },
-          "duration": 521,
+          "duration": 520,
           "state": "passed",
           "speed": "slow"
         },
@@ -3210,16 +3210,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:ddb7522f-8c76-4168-8bce-b06c891a28e7",
+          "_testId": "urn:uuid:9f1ca5ad-2fa2-430e-b92b-29d2feab90ee",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 78135,
+            "_idleStart": 77505,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3228,7 +3228,7 @@
             "columnId": "independent",
             "rowId": "22. SD-JWT Presentation Verification"
           },
-          "duration": 503,
+          "duration": 509,
           "state": "passed",
           "speed": "slow"
         },
@@ -3245,16 +3245,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:67e2471d-41ee-4e3b-a2a7-fe582368a1ef",
+          "_testId": "urn:uuid:82c6c645-751a-44ed-9f4a-1d1fe58d9995",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 78630,
+            "_idleStart": 78023,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3263,7 +3263,7 @@
             "columnId": "independent",
             "rowId": "23. SD-JWT Credential With an Invalid Signature"
           },
-          "duration": 495,
+          "duration": 519,
           "state": "passed",
           "speed": "slow"
         },
@@ -3280,16 +3280,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:bc057e7e-30e5-47fc-b487-7ab42149c203",
+          "_testId": "urn:uuid:8800c542-b453-4d9d-9df0-a047001111f0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 79132,
+            "_idleStart": 78531,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3298,7 +3298,7 @@
             "columnId": "independent",
             "rowId": "24. SD-JWT Credential with an Invalid Media Type"
           },
-          "duration": 502,
+          "duration": 507,
           "state": "passed",
           "speed": "slow"
         },
@@ -3315,16 +3315,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:f5f1e9c2-dfb0-4742-a95a-b17dd25911a9",
+          "_testId": "urn:uuid:460fb284-6a08-4c46-b3d1-31853c6e3793",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 79631,
+            "_idleStart": 79033,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3333,7 +3333,7 @@
             "columnId": "independent",
             "rowId": "25. SD-JWT Presentation with an Invalid Media Type"
           },
-          "duration": 499,
+          "duration": 502,
           "state": "passed",
           "speed": "slow"
         },
@@ -3350,16 +3350,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "0FnTjmdO78hUW7eVCSgC9",
+          "parent": "03XdJH-SW7ckkmLjaWm-e",
           "ctx": null,
-          "_testId": "urn:uuid:351b8a89-3056-4ebb-8597-b14bfc19a2fb",
+          "_testId": "urn:uuid:d27bae36-a6f1-4bce-833b-e25d91a80261",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80148,
+            "_idleStart": 79552,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3368,7 +3368,7 @@
             "columnId": "independent",
             "rowId": "26. SD-JWT Presentation with Invalid Credentials"
           },
-          "duration": 517,
+          "duration": 519,
           "state": "passed",
           "speed": "slow"
         },
@@ -3385,21 +3385,21 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:89086113-402b-48cb-978c-31cad623ead3",
+          "_testId": "urn:uuid:ac6e1810-d51d-46a8-ba30-b3f1e12daf6b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80299,
+            "_idleStart": 79703,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
           },
-          "duration": 1,
+          "duration": 0,
           "state": "pending"
         },
         {
@@ -3415,16 +3415,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:7f839250-040c-439b-9cdd-c096d5aefaf9",
+          "_testId": "urn:uuid:6234934f-01c1-4d35-b7a8-d65db17ca708",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80299,
+            "_idleStart": 79703,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3445,16 +3445,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:b61a744f-d721-434b-b905-af7890b046d1",
+          "_testId": "urn:uuid:fff90abe-c1ad-4980-8ed7-2ab72373ba9b",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80299,
+            "_idleStart": 79703,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3475,16 +3475,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:153dc0b9-9510-405e-aaff-3d05dafb20d0",
+          "_testId": "urn:uuid:133fdc0d-d3be-4005-9a71-faef71ea8f3a",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80299,
+            "_idleStart": 79703,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3505,16 +3505,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:e4b65e23-7005-4969-bd01-2aa6f3c43893",
+          "_testId": "urn:uuid:ed349df2-0833-4d47-93e4-20f2f6caa843",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80300,
+            "_idleStart": 79704,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3535,21 +3535,21 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:a53cad48-a400-432d-90a4-df4c80049b8f",
+          "_testId": "urn:uuid:d9254617-1ccc-407b-bd8d-164001e6b2c2",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80300,
+            "_idleStart": 79704,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
           },
-          "duration": 1,
+          "duration": 0,
           "state": "pending"
         },
         {
@@ -3565,16 +3565,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:ed357f67-55a1-493f-8fe4-e88c48fda636",
+          "_testId": "urn:uuid:d6bedd7f-a077-47e8-8e9f-885d903aa87a",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80300,
+            "_idleStart": 79704,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3595,16 +3595,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:b12afa51-8fb7-4f8f-a993-8015d85bb52c",
+          "_testId": "urn:uuid:89000e68-8fdf-4c37-a0b0-e9baaba9a4e0",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80300,
+            "_idleStart": 79704,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3625,16 +3625,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:cda8800f-569a-439e-8a87-97e7fa9eb903",
+          "_testId": "urn:uuid:a279dc6a-1b3a-46ac-bd5c-7d60e918abb3",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80300,
+            "_idleStart": 79705,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3655,16 +3655,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "oWK9eyP1Ye9sDcX3Dqerh",
+          "parent": "Qq3E75KzUtQ-jpspfPiHx",
           "ctx": null,
-          "_testId": "urn:uuid:48a7a0e5-6f1e-4486-b0ae-8aeb1db30a4b",
+          "_testId": "urn:uuid:f98b2b6c-3ab8-49ae-8c3e-e22aa863f066",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80301,
+            "_idleStart": 79705,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -3686,7 +3686,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "2Ply-eg4yxzLPB7uR1bV6",
+      "parent": "vGaG_tHIaovVkafM0Xzid",
       "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
       "matrix": true,
       "report": true,
@@ -3696,7 +3696,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:e98f3646-092d-4982-8e02-b9966c0034c2"
+      "_testId": "urn:uuid:b625a903-0438-4a8f-b427-a2af732c0a70"
     },
     {
       "title": "COSE Tests",
@@ -3720,16 +3720,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:d742cf03-5ab2-4ca6-a2fd-0e6d1fead758",
+              "_testId": "urn:uuid:74e90cf5-eee8-4f4e-9031-a9132335f6a4",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 80675,
+                "_idleStart": 80054,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3738,7 +3738,7 @@
                 "columnId": "independent",
                 "rowId": "27. COSE Basic Credential Issuance"
               },
-              "duration": 524,
+              "duration": 499,
               "state": "passed",
               "speed": "slow"
             },
@@ -3755,16 +3755,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:7c3f25e3-ca47-449e-ac34-250958156f68",
+              "_testId": "urn:uuid:50f50d2c-e859-4ac1-9a27-ec29b62570ca",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 81185,
+                "_idleStart": 80572,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3773,7 +3773,7 @@
                 "columnId": "independent",
                 "rowId": "28. COSE Basic Presentation Issuance"
               },
-              "duration": 510,
+              "duration": 518,
               "state": "passed",
               "speed": "slow"
             },
@@ -3790,16 +3790,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:fa71677e-c4d5-4335-abc9-725b7a38c020",
+              "_testId": "urn:uuid:ed4b1a83-9e97-4e3e-8bc8-f4d0e7555651",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 81688,
+                "_idleStart": 81092,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3808,7 +3808,7 @@
                 "columnId": "independent",
                 "rowId": "29. COSE Basic Credential Verification"
               },
-              "duration": 503,
+              "duration": 520,
               "state": "passed",
               "speed": "slow"
             },
@@ -3825,16 +3825,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:5ba2b594-cc14-43f4-be53-98784111c2d8",
+              "_testId": "urn:uuid:acd35265-e191-4b40-97c4-e3c9e1529602",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 82198,
+                "_idleStart": 81589,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3843,7 +3843,7 @@
                 "columnId": "independent",
                 "rowId": "30. COSE Credential Verification Incorrect Encoding"
               },
-              "duration": 510,
+              "duration": 497,
               "state": "passed",
               "speed": "slow"
             },
@@ -3860,16 +3860,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:bacbbed4-6674-461e-99f6-d517fb526fd3",
+              "_testId": "urn:uuid:14c51f2c-fec8-4387-ac49-c99238fb2f1d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 82700,
+                "_idleStart": 82107,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3878,7 +3878,7 @@
                 "columnId": "independent",
                 "rowId": "31. COSE Basic Presentation Verification"
               },
-              "duration": 502,
+              "duration": 518,
               "state": "passed",
               "speed": "slow"
             },
@@ -3895,16 +3895,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:bf380b59-fd0d-42c2-bdf5-9ebf33e71ab3",
+              "_testId": "urn:uuid:835d7e3e-915a-4717-8889-55f38d68f828",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 83209,
+                "_idleStart": 82609,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3913,7 +3913,7 @@
                 "columnId": "independent",
                 "rowId": "32. COSE Credential With an Invalid Signature"
               },
-              "duration": 509,
+              "duration": 502,
               "state": "passed",
               "speed": "slow"
             },
@@ -3930,16 +3930,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:ce80314f-c83d-451c-a0d6-ea1433e842b2",
+              "_testId": "urn:uuid:9948e424-0529-462b-99c6-5f02fae23308",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 83715,
+                "_idleStart": 83118,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3948,7 +3948,7 @@
                 "columnId": "independent",
                 "rowId": "33. COSE Credential with an Invalid Media Type"
               },
-              "duration": 505,
+              "duration": 509,
               "state": "passed",
               "speed": "slow"
             },
@@ -3965,16 +3965,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:ae5e7b24-4802-4d47-b9c9-bc69f8ef81df",
+              "_testId": "urn:uuid:6c05c12c-5e22-41c4-bd15-ea5f8131cb02",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84215,
+                "_idleStart": 83610,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -3983,7 +3983,7 @@
                 "columnId": "independent",
                 "rowId": "34. COSE Presentation with an Invalid Media Type"
               },
-              "duration": 500,
+              "duration": 492,
               "state": "passed",
               "speed": "slow"
             },
@@ -4000,16 +4000,16 @@
               "_currentRetry": 0,
               "pending": false,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "v24cb2oZA2sZ_lWIViX1d",
+              "parent": "kD5TY9H-y4BnorFuhh80B",
               "ctx": null,
-              "_testId": "urn:uuid:1942939a-40f9-4277-9688-1e42afbdae77",
+              "_testId": "urn:uuid:425ff64c-7c27-4d45-87c3-23f4c530d56d",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84720,
+                "_idleStart": 84112,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4018,7 +4018,7 @@
                 "columnId": "independent",
                 "rowId": "35. COSE Presentation with Invalid Credentials"
               },
-              "duration": 505,
+              "duration": 502,
               "state": "passed",
               "speed": "slow"
             }
@@ -4036,9 +4036,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "QL4TOdY-Vh2bO5-h1hrnA",
+          "parent": "4biZZMnVAjjc6drLArnk5",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:50bee479-b26c-47f3-a8de-bd9e09ea7afe"
+          "_testId": "urn:uuid:bf3ca0af-20b5-4f81-bb3e-fed29c861eb2"
         },
         {
           "title": "mavennet",
@@ -4058,16 +4058,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:ebc3bde6-bcdd-4b83-ae9f-b1b6280ecc9f",
+              "_testId": "urn:uuid:d3fa38aa-2979-45a7-8563-c664ee38cb97",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84871,
+                "_idleStart": 84263,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4088,16 +4088,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:a5acae6c-5979-492c-8554-dd5ea519a4f9",
+              "_testId": "urn:uuid:5509f13c-c7e8-4a80-8e17-6648a03f7312",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84871,
+                "_idleStart": 84263,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4118,16 +4118,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:cc324288-66d0-4647-af70-745931706358",
+              "_testId": "urn:uuid:418edaef-e8c0-4697-bfbd-7ae857b15362",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84871,
+                "_idleStart": 84263,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4148,16 +4148,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:12d1c0ac-ed71-4a07-b1bb-78a9f44bbac7",
+              "_testId": "urn:uuid:3fcd5c72-b130-4965-84f0-f89c39598da1",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84871,
+                "_idleStart": 84263,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4178,16 +4178,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:171c62ab-1cbb-4a82-98bd-c78ae8b17e87",
+              "_testId": "urn:uuid:7a65bf52-4165-4041-b8de-f01355ffd232",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84872,
+                "_idleStart": 84264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4208,16 +4208,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:31eea3b7-f581-417e-8231-79488727ff3b",
+              "_testId": "urn:uuid:4c9ac714-40ad-41b4-80fc-66e7f67deb70",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84872,
+                "_idleStart": 84264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4238,16 +4238,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:bfd461ee-e567-4e1c-9600-96878fcffcb0",
+              "_testId": "urn:uuid:a6489f9a-d2f8-4aa0-953b-c17d2e37dcea",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84872,
+                "_idleStart": 84264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4268,16 +4268,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:5ab91b0e-6748-4a05-8c25-f64d13e72bb4",
+              "_testId": "urn:uuid:d950b289-5ae7-46f0-b9c2-41bb7be7adad",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84872,
+                "_idleStart": 84264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4298,16 +4298,16 @@
               "_currentRetry": 0,
               "pending": true,
               "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-              "parent": "D6e8zA82SPgJzj7gPmWpy",
+              "parent": "CvZKsllmWx28YTvHq_ODf",
               "ctx": null,
-              "_testId": "urn:uuid:7611b07b-8a8e-454f-8996-207acebb9917",
+              "_testId": "urn:uuid:e6033fc7-9389-4481-a3c0-e354e3bc5de5",
               "_events": {},
               "_eventsCount": 1,
               "timer": {
                 "_idleTimeout": -1,
                 "_idlePrev": null,
                 "_idleNext": null,
-                "_idleStart": 84873,
+                "_idleStart": 84264,
                 "_onTimeout": null,
                 "_repeat": null,
                 "_destroyed": true
@@ -4329,9 +4329,9 @@
           "_onlyTests": [],
           "_onlySuites": [],
           "delayed": false,
-          "parent": "QL4TOdY-Vh2bO5-h1hrnA",
+          "parent": "4biZZMnVAjjc6drLArnk5",
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "_testId": "urn:uuid:9fca8962-ee62-48c1-aa53-a43ab81fe795"
+          "_testId": "urn:uuid:17ad5f91-eb29-497d-aa85-bbdf22f2ab95"
         }
       ],
       "tests": [
@@ -4348,16 +4348,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:d742cf03-5ab2-4ca6-a2fd-0e6d1fead758",
+          "_testId": "urn:uuid:74e90cf5-eee8-4f4e-9031-a9132335f6a4",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 80675,
+            "_idleStart": 80054,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4366,7 +4366,7 @@
             "columnId": "independent",
             "rowId": "27. COSE Basic Credential Issuance"
           },
-          "duration": 524,
+          "duration": 499,
           "state": "passed",
           "speed": "slow"
         },
@@ -4383,16 +4383,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:7c3f25e3-ca47-449e-ac34-250958156f68",
+          "_testId": "urn:uuid:50f50d2c-e859-4ac1-9a27-ec29b62570ca",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 81185,
+            "_idleStart": 80572,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4401,7 +4401,7 @@
             "columnId": "independent",
             "rowId": "28. COSE Basic Presentation Issuance"
           },
-          "duration": 510,
+          "duration": 518,
           "state": "passed",
           "speed": "slow"
         },
@@ -4418,16 +4418,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:fa71677e-c4d5-4335-abc9-725b7a38c020",
+          "_testId": "urn:uuid:ed4b1a83-9e97-4e3e-8bc8-f4d0e7555651",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 81688,
+            "_idleStart": 81092,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4436,7 +4436,7 @@
             "columnId": "independent",
             "rowId": "29. COSE Basic Credential Verification"
           },
-          "duration": 503,
+          "duration": 520,
           "state": "passed",
           "speed": "slow"
         },
@@ -4453,16 +4453,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:5ba2b594-cc14-43f4-be53-98784111c2d8",
+          "_testId": "urn:uuid:acd35265-e191-4b40-97c4-e3c9e1529602",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 82198,
+            "_idleStart": 81589,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4471,7 +4471,7 @@
             "columnId": "independent",
             "rowId": "30. COSE Credential Verification Incorrect Encoding"
           },
-          "duration": 510,
+          "duration": 497,
           "state": "passed",
           "speed": "slow"
         },
@@ -4488,16 +4488,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:bacbbed4-6674-461e-99f6-d517fb526fd3",
+          "_testId": "urn:uuid:14c51f2c-fec8-4387-ac49-c99238fb2f1d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 82700,
+            "_idleStart": 82107,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4506,7 +4506,7 @@
             "columnId": "independent",
             "rowId": "31. COSE Basic Presentation Verification"
           },
-          "duration": 502,
+          "duration": 518,
           "state": "passed",
           "speed": "slow"
         },
@@ -4523,16 +4523,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:bf380b59-fd0d-42c2-bdf5-9ebf33e71ab3",
+          "_testId": "urn:uuid:835d7e3e-915a-4717-8889-55f38d68f828",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 83209,
+            "_idleStart": 82609,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4541,7 +4541,7 @@
             "columnId": "independent",
             "rowId": "32. COSE Credential With an Invalid Signature"
           },
-          "duration": 509,
+          "duration": 502,
           "state": "passed",
           "speed": "slow"
         },
@@ -4558,16 +4558,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:ce80314f-c83d-451c-a0d6-ea1433e842b2",
+          "_testId": "urn:uuid:9948e424-0529-462b-99c6-5f02fae23308",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 83715,
+            "_idleStart": 83118,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4576,7 +4576,7 @@
             "columnId": "independent",
             "rowId": "33. COSE Credential with an Invalid Media Type"
           },
-          "duration": 505,
+          "duration": 509,
           "state": "passed",
           "speed": "slow"
         },
@@ -4593,16 +4593,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:ae5e7b24-4802-4d47-b9c9-bc69f8ef81df",
+          "_testId": "urn:uuid:6c05c12c-5e22-41c4-bd15-ea5f8131cb02",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84215,
+            "_idleStart": 83610,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4611,7 +4611,7 @@
             "columnId": "independent",
             "rowId": "34. COSE Presentation with an Invalid Media Type"
           },
-          "duration": 500,
+          "duration": 492,
           "state": "passed",
           "speed": "slow"
         },
@@ -4628,16 +4628,16 @@
           "_currentRetry": 0,
           "pending": false,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "v24cb2oZA2sZ_lWIViX1d",
+          "parent": "kD5TY9H-y4BnorFuhh80B",
           "ctx": null,
-          "_testId": "urn:uuid:1942939a-40f9-4277-9688-1e42afbdae77",
+          "_testId": "urn:uuid:425ff64c-7c27-4d45-87c3-23f4c530d56d",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84720,
+            "_idleStart": 84112,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4646,7 +4646,7 @@
             "columnId": "independent",
             "rowId": "35. COSE Presentation with Invalid Credentials"
           },
-          "duration": 505,
+          "duration": 502,
           "state": "passed",
           "speed": "slow"
         },
@@ -4663,16 +4663,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:ebc3bde6-bcdd-4b83-ae9f-b1b6280ecc9f",
+          "_testId": "urn:uuid:d3fa38aa-2979-45a7-8563-c664ee38cb97",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84871,
+            "_idleStart": 84263,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4693,16 +4693,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:a5acae6c-5979-492c-8554-dd5ea519a4f9",
+          "_testId": "urn:uuid:5509f13c-c7e8-4a80-8e17-6648a03f7312",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84871,
+            "_idleStart": 84263,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4723,16 +4723,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:cc324288-66d0-4647-af70-745931706358",
+          "_testId": "urn:uuid:418edaef-e8c0-4697-bfbd-7ae857b15362",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84871,
+            "_idleStart": 84263,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4753,16 +4753,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:12d1c0ac-ed71-4a07-b1bb-78a9f44bbac7",
+          "_testId": "urn:uuid:3fcd5c72-b130-4965-84f0-f89c39598da1",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84871,
+            "_idleStart": 84263,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4783,16 +4783,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:171c62ab-1cbb-4a82-98bd-c78ae8b17e87",
+          "_testId": "urn:uuid:7a65bf52-4165-4041-b8de-f01355ffd232",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84872,
+            "_idleStart": 84264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4813,16 +4813,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:31eea3b7-f581-417e-8231-79488727ff3b",
+          "_testId": "urn:uuid:4c9ac714-40ad-41b4-80fc-66e7f67deb70",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84872,
+            "_idleStart": 84264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4843,16 +4843,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:bfd461ee-e567-4e1c-9600-96878fcffcb0",
+          "_testId": "urn:uuid:a6489f9a-d2f8-4aa0-953b-c17d2e37dcea",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84872,
+            "_idleStart": 84264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4873,16 +4873,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:5ab91b0e-6748-4a05-8c25-f64d13e72bb4",
+          "_testId": "urn:uuid:d950b289-5ae7-46f0-b9c2-41bb7be7adad",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84872,
+            "_idleStart": 84264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4903,16 +4903,16 @@
           "_currentRetry": 0,
           "pending": true,
           "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
-          "parent": "D6e8zA82SPgJzj7gPmWpy",
+          "parent": "CvZKsllmWx28YTvHq_ODf",
           "ctx": null,
-          "_testId": "urn:uuid:7611b07b-8a8e-454f-8996-207acebb9917",
+          "_testId": "urn:uuid:e6033fc7-9389-4481-a3c0-e354e3bc5de5",
           "_events": {},
           "_eventsCount": 1,
           "timer": {
             "_idleTimeout": -1,
             "_idlePrev": null,
             "_idleNext": null,
-            "_idleStart": 84873,
+            "_idleStart": 84264,
             "_onTimeout": null,
             "_repeat": null,
             "_destroyed": true
@@ -4934,7 +4934,7 @@
       "_onlyTests": [],
       "_onlySuites": [],
       "delayed": false,
-      "parent": "2Ply-eg4yxzLPB7uR1bV6",
+      "parent": "vGaG_tHIaovVkafM0Xzid",
       "file": "/home/runner/work/w3c-vc-jose-cose-test-suite/w3c-vc-jose-cose-test-suite/tests/test-runner.js",
       "matrix": true,
       "report": true,
@@ -4944,7 +4944,7 @@
       ],
       "rowLabel": "Test Name",
       "columnLabel": "Implementation",
-      "_testId": "urn:uuid:bb5b0737-b45c-4bec-9b85-f584357b54eb"
+      "_testId": "urn:uuid:e32b21ab-2ede-4cdf-a6da-ea2e95a793c9"
     }
   ],
   "tests": [],
@@ -4968,5 +4968,5 @@
     ]
   },
   "_eventsCount": 1,
-  "_testId": "urn:uuid:9696dbf2-6dc4-4aa0-bb09-7dd6aab2d01f"
+  "_testId": "urn:uuid:aec77266-76e6-4443-bdcf-979bc352d746"
 }
